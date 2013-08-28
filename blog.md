@@ -1,9 +1,12 @@
- 1.     Why you should blog?
+Blogging 
+=============================
+
+###Why you should blog?
            
 Blogging is a great way to share your experiences. Blogging often on a topic establishes you as a technology thought leader, giving your thoughts a broad audience available to readers for years. 
 
  
-2.     Writing a great technical post
+###Writing a great technical post
  
 _Have a thesis_ Like high school or college essays, great blog posts have a clear message. When you begin writing your post, start by forming a key message or statement. Ask yourself, what do I want the reader to take away from this post? A good article will typically leave readers with a key statement. Everything else in your post is supporting evidence.
  
@@ -20,7 +23,7 @@ _Keep it short_ Blog posts don’t need to be long. In fact, I would urge you to
 _Build series_ Blog series are a great way to build momentum on your blog. They publicly commit you to a series of topics, they get your readers interested in reading.
 
  
-3.     How to generate ideas
+###How to generate ideas
 
 Sometimes it can be hard to know where to start when it comes to blogging. Sometimes we think that our day-to-day can't possible be publishable! Yet our experiences, especially when it comes to open source, can be incredibly valuable when shared, and sometimes what may seem like a mundane task to you is actually an opportunity for enlightenment to a new MongoDB user.
 
@@ -36,7 +39,7 @@ Here are some ways to generate new ideas for MongoDB blogging content:
 * Write a "How To" on MongoDB with a specific language, framework or open source tool
 *Turn conference or meetup presentations into blog posts or post your slides to your blog with short summaries
  
-4.     Where you can post
+###Where you can post
  
 _Your personal blog_ It's never been easier to create a blog. There are platforms such as Wordpress, Tumblr, Jekyl and Octopress that make it dead simple to get your content out there. You can also post to Medium 
  
@@ -44,7 +47,7 @@ _Your company blog_ Many great companies have engineering blogs where they publi
  
 _Guest post on the MongoDB Blog_  We are happy to have guests posts on the MongoDB community blog. Just follow the guidelines above, and make sure the posts are technical in nature. Send a copy of a blog post or an abstract in a markdown format to the [MongoDB community team](mailto:meetups@10gen.com). We’ll have a look to see if it is a good fit! 
  
-5.     Spread the word
+###Spread the word
  
 Once you've written your post, you need to build an audience. There are many ways to get people to read and engage with your blog. As you start building an audience, remember that quality is as important as quantity. Your early readers are critical. When they  comment, respond and thank them for their feedback!
 
@@ -60,7 +63,7 @@ _Local UGs_: Are you the member of a local MongoDB or programming language meetu
 
 _Newsletters_:  Getting listed in a newsletter is another way to expand reach for your blog post. Some examples of interesting technical newsletters include [DevOps Weekly](http://devopsweekly.com/), [Python Weekly](http://www.pythonweekly.com/), [NoSQL Weekly](http://www.nosqlweekly.com/). And if you’re interested in getting featured in the MongoDB newsletter, [contact the MongoDB community team](mailto:meetups@10gen.com).
 
-6.     Planet MongoDB
+###Planet MongoDB
 
 [Planet MongoDB](http://planet.mongodb.org/) is an aggregator of MongoDB news. It's the go-to place for the latest MongoDB content. The MongoDB community team manages the bloggers that get added to Planet MongoDB.
 

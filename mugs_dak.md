@@ -15,18 +15,19 @@ Thank you for your interest in becoming a MongoDB User Group Organizer. MongoDB 
 
 ##Get Set up as a MUG Organizer
 
-*Connect with the community team at 10gen* 
-MongoDB User Group organizers connect with their local institutions and connections to promote regular, in-person meetings that foster participation and community growth. One of the best ways to do this is connect with 10gen’s community team, who have many contacts in your local communities. 
+*Connect with the community team at MongoDB* 
+MongoDB User Group organizers connect with their local institutions and connections to promote regular, in-person meetings that foster participation and community growth. One of the best ways to do this is connect with 
+MongoDB’s community team, who have many contacts in your local communities. 
 
-* For MUGs in the United States, Asia and Latin America, please contact Amy.berman at 10gen dot com
-* For MUGs in Europe, the Middle East and North Africa, please contact Laura at laura.czajkowski at 10gen dot com
+* For MUGs in the United States, Asia and Latin America, please contact Amy.berman at MongoDB dot com
+* For MUGs in Europe, the Middle East and North Africa, please contact Laura at laura.czajkowski at MongoDB dot com
 
 ##Get your Web Presence Set up
 
 One of the first steps in creating a new group is creating a web site or web presence for your group to live. The following options have been useful for many MongoDB User Groups: 
 
 ###Meetup.com 
-All MongoDB MUG organizers have the option to create a Meetup group on 10gen’s
+All MongoDB MUG organizers have the option to create a Meetup group on MongoDB’s
 platform. Meetup has a lot of great tools for event organizers, and make it easy for users to
 discover new groups related to their interests. 
 
@@ -74,7 +75,7 @@ Network (in person): Go to a popular tech meetup in your area and invite some at
 Network (online): Get the word out to your colleagues. Share it with your LinkedIn connections, on Facebook and twitter. Email your co-workers and invite them to attend.
 
 ###Improve Content
-Finding speakers is difficult, but it’s not impossible. If you’re having a hard time finding good speakers, reach out to your contact at 10gen. They might be able to support you there. 
+Finding speakers is difficult, but it’s not impossible. If you’re having a hard time finding good speakers, reach out to your contact at MongoDB. They might be able to support you there. 
 Some speakers have a lot of potential, but need support. Offer your help and expertise to less-experienced presenters to ensure they can offer their best performance at your MUG. You can look over their slides before an event, or meet them beforehand to do a dry-run of the presentation. 
 
 ###Improve the format
@@ -82,6 +83,6 @@ No slides: Sometimes, presentations are not ideal for your group, and people pre
 
 ###Other concerns? 
 
-Always get in touch with your contact at 10gen. Our community team is happy to help you with anything you need to get your User Group off the ground. We’re in the business of making people successful and are looking forward to helping you build a vibrant MongoDB community. 
+Always get in touch with your contact at MongoDB. Our community team is happy to help you with anything you need to get your User Group off the ground. We’re in the business of making people successful and are looking forward to helping you build a vibrant MongoDB community. 
  
 

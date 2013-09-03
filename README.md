@@ -1,9 +1,9 @@
-MongoDB_DAK
-===========
-
 The MongoDB Developer Advocacy Kit
+====================================
 
-Welcome to the MongoDB Developer Advocacy Kit. This is a guide to 
+Hello and welcome to the MongoDB Developer Advocacy Kit. This kit is designed to give guidance to those interested in 
+participating in the MongoDB community. These directives are meant to help you, as a user and community member, help 
+other users become successful in a growing open source community.
 
 Table of Contents: 
 

@@ -74,10 +74,10 @@ How do we select who gets added? Like many open source communities with a blog a
 
 Want to get added? It's easy. [Get in touch](mailto:meetups@10gen.com) with the following information
 
-Name 
-Blog
-RSS 
-Why should I be on Planet MongoDB
+* Name 
+* Blog
+* RSS 
+* Why should you be on Planet MongoDB
 
 
 

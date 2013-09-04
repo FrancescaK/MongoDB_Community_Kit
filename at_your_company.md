@@ -40,6 +40,6 @@ Bring your boss to a local MongoDB User Group. This will help them see the techn
 
 ####Attend a MongoDB Event 
 
-See a list of our upcoming webinars and events at [Mongodb.com](http://www.mongodb.com/events)
+See a list of our upcoming webinars and events at [mongodb.com](http://www.mongodb.com/events)
 
 

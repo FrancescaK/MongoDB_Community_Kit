@@ -1,5 +1,5 @@
-
-MUG Organizer Toolkit:
+MUG Organizer Toolkit
+=====================================
 
 Thank you for your interest in becoming a MongoDB User Group Organizer. MongoDB MUG Organizers are instrumental in helping MongoDB users connect and network around the globe. 
 

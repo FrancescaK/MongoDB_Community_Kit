@@ -45,7 +45,7 @@ _Your personal blog_ It's never been easier to create a blog. There are platform
  
 _Your company blog_ Many great companies have engineering blogs where they publish articles about the underlying technologies powering their business (see [foursquare](http://engineering.foursquare.com/) and [Server Density](https://blog.serverdensity.com/)). These blogs are a great way to get more exposure for your company in the developer community. 
  
-_Guest post on the MongoDB Blog_  We are happy to have guests posts on the MongoDB community blog. Just follow the guidelines above, and make sure the posts are technical in nature. Send a copy of a blog post or an abstract in a markdown format to the [MongoDB community team](mailto:meetups@10gen.com). We’ll have a look to see if it is a good fit! 
+_Guest post on the MongoDB Blog_  We are happy to have guests posts on the MongoDB community blog. Just follow the guidelines above, and make sure the posts are technical in nature. Send a copy of a blog post or an abstract in a markdown format to the [MongoDB community team](mailto:meetups@mongodb.com). We’ll have a look to see if it is a good fit! 
  
 ###Spread the word
  
@@ -72,7 +72,7 @@ How do we select who gets added? Like many open source communities with a blog a
 * You write posts about MongoDB that are valuable to the community. Planet MongoDB is for sharing of knowledge, news, and best practices around the MongoDB community and its members. It's not for product pitches.
 * You writing reflects your respect for others in the community. [we have no tolerance for intolerance] Thou shalt not troll.
 
-Want to get added? It's easy. [Get in touch](mailto:meetups@10gen.com) with the following information
+Want to get added? It's easy. [Get in touch](mailto:meetups@mongodb.com) with the following information
 
 * Name 
 * Blog

@@ -8,10 +8,9 @@ Hackathons are a great way to expose developers in your company to MongoDB and s
 * Set goals that benefit everyone - education, collaboration, and development
 * Create a scope and establish evaluation criteria
 * Plan event logistics
-
-**Venue
-**Food
-**Audio/Visual
+ * Venue
+ * Food
+ * Audio/Visual
 
 * Provide resources and support for your participants
 * Demo apps

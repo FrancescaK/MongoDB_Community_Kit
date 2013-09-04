@@ -26,11 +26,11 @@ Download our whitepaper on [“A Total Cost of Ownership Comparison of MongoDB &
 
 ####Share our customer examples of successful solutions in
 
-* [Big Data](http://www.10gen.com/solutions/big-data)
-* [Content Management and Delivery](http://www.10gen.com/solutions/content-management-and-delivery)
-* [Mobile and Social Infrastructure](http://www.10gen.com/solutions/mobile-and-social-infrastructure)
-* [User Data Management](http://www.10gen.com/solutions/user-data-management)
-* [Data Hub](http://www.10gen.com/solutions/data-hub)
+* [Big Data](http://www.mongodb.com/solutions/big-data)
+* [Content Management and Delivery](http://www.mongodb.com/solutions/content-management-and-delivery)
+* [Mobile and Social Infrastructure](http://www.mongodb.com/solutions/mobile-and-social-infrastructure)
+* [User Data Management](http://www.mongodb.com/solutions/user-data-management)
+* [Data Hub](http://www.mongodb.com/solutions/data-hub)
 
 ####Attend a local MongoDB User Group 
 

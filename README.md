@@ -1,11 +1,11 @@
 The MongoDB Developer Advocacy Kit
 ====================================
 
-Hello and welcome to the MongoDB Developer Advocacy Kit. This kit is designed to give guidance to those interested in 
-participating in the MongoDB community. These directives are meant to help you, as a user and community member, help 
+Hello and welcome to the MongoDB Developer Advocacy Kit. This kit is designed to give guidance to those interested in
+participating in the MongoDB community. These directives are meant to help you, as a user and community member, help
 other users become successful in a growing open source community.
 
-Table of Contents: 
+Table of Contents:
 
 * [Letter to the Advocate: Welcome to the Developer Advocacy Kit](https://github.com/FrancescaK/MongoDB_DAK/blob/master/letter.md)
 * [Contributing to the Docs](https://github.com/FrancescaK/MongoDB_DAK/blob/master/docs.md)

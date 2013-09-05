@@ -16,9 +16,3 @@ For more information on the MongoDB documentation process, see:
 * [Build and Deploy the MongoDB Documentation](http://docs.mongodb.org/manual/meta/build/)
 
 If you have any questions, please feel free to open a [Jira Case](https://jira.mongodb.org/browse/DOCS).
-
-
-
-
-
-

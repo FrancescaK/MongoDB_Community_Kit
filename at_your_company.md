@@ -4,7 +4,7 @@ At Your Company
 ###Host a Hackathon
 
 Hackathons are a great way to expose developers in your company to MongoDB and show managers what MongoDB can do. Try holding a hackathon for building a MongoDB app. Below are some best practices for planning a hackathon:
- 
+
 * Set goals that benefit everyone - education, collaboration, and development
 * Create a scope and establish evaluation criteria
 * Plan event logistics
@@ -33,14 +33,12 @@ Download our whitepaper on [“A Total Cost of Ownership Comparison of MongoDB &
 * [User Data Management](http://www.mongodb.com/solutions/user-data-management)
 * [Data Hub](http://www.mongodb.com/solutions/data-hub)
 
-####Attend a local MongoDB User Group 
+####Attend a local MongoDB User Group
 
-Bring your boss to a local MongoDB User Group. This will help them see the technology in action and see the ecosystem around the database. 
+Bring your boss to a local MongoDB User Group. This will help them see the technology in action and see the ecosystem around the database.
 
 * For a list of user groups see [the user group page on MongoDB.com](http://www.mongodb.com/user-groups)
 
-####Attend a MongoDB Event 
+####Attend a MongoDB Event
 
 See a list of our upcoming webinars and events at [mongodb.com](http://www.mongodb.com/events)
-
-

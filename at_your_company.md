@@ -22,8 +22,8 @@ Let us know if you’d like help!
 ###Convince Your Manager
 You want to use MongoDB but need help convincing your manager. Let us help you communicate why MongoDB is the best solution for your company.
 
-* Watch our webinar on [“A Total Cost of Ownership Analysis for MongoDB](http://www.mongodb.com/presentations/webinar-total-cost-ownership-analysis-mongodb)
-Download our whitepaper on [“A Total Cost of Ownership Comparison of MongoDB & Oracle"](http://www.mongodb.com/dl/tco).”
+* Watch our webinar on ["A Total Cost of Ownership Analysis for MongoDB"](http://www.mongodb.com/presentations/webinar-total-cost-ownership-analysis-mongodb)
+* Download our whitepaper on ["A Total Cost of Ownership Comparison of MongoDB & Oracle"](http://www.mongodb.com/dl/tco).
 
 ####Share our customer examples of successful solutions in
 

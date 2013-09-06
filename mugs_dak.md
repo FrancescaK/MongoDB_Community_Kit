@@ -3,28 +3,16 @@ MUG Organizer Toolkit
 
 Thank you for your interest in becoming a MongoDB User Group Organizer. MongoDB MUG Organizers are instrumental in helping MongoDB users connect and network around the globe.
 
-* Get Set up as a MUG organizer
-* Personalize Your User Group
-* Plan Your First Meeting
-* Follow Up After Your First Meeting
-* Get Your Community Involved
-* Finding Speakers
-* Finding Sponsors
-* Innovative Programming
+##Get Set Up As A MUG organizer
 
+*Connect with the community team at MongoDB*:  MongoDB User Group organizers connect with their local institutions and communities to promote regular, in-person meetings that foster participation and community growth. One of the best ways to do this is by connecting with MongoDB’s community team, who have many contacts in your local communities.
 
-##Get Set up as a MUG Organizer
-
-*Connect with the community team at MongoDB*
-MongoDB User Group organizers connect with their local institutions and connections to promote regular, in-person meetings that foster participation and community growth. One of the best ways to do this is connect with
-MongoDB’s community team, who have many contacts in your local communities.
-
-* For MUGs in the United States, Asia and Latin America, please contact Amy.berman at MongoDB dot com
+* For MUGs in the United States, Asia and Latin America, please contact Amy at amy.berman at MongoDB dot com
 * For MUGs in Europe, the Middle East and North Africa, please contact Laura at laura.czajkowski at MongoDB dot com
 
 ##Get your Web Presence Set up
 
-One of the first steps in creating a new group is creating a web site or web presence for your group to live. The following options have been useful for many MongoDB User Groups:
+One of the first steps in creating a new group is creating a web site or web presence for your group. The following options have been useful for many MongoDB User Groups:
 
 ###Meetup.com
 All MongoDB MUG organizers have the option to create a Meetup group on MongoDB’s
@@ -52,17 +40,17 @@ As you grow, you’ll be able to add photos, create your own logos and build a m
 Your first MUG Meeting is a great opportunity to meet enthusiastic members of the MongoDB community, and get a better idea of what they want out of the group. An introductory presentation on MongoDB would be a great fit for members new to MongoDB.
 After the presentation, set aside some time to have an open discussion with the attendees to find out the following:
 * How many people are new to MongoDB?
-* What would they like to get out of the group? Networking, professional development,
+* What would they like to get out of the group? Networking, professional development, etc.
 * What are some presentations they would like to see?
-* Remember to take photos!
+Remember to take photos!
 
-At the end of the event, remember to close the meeting by saying goodbye to attendees, announce the date for the next meeting and ask anyone if they would like to present in the future. Be sure to ask the speakers for their slides after the event so you can share with the group.
+At the end of the event, remember to close the meeting by saying goodbye to attendees, announce the date for the next meeting and ask anyone if they would like to present in the future. Be sure to ask all speakers for their slides after the event so you can share with the group.
 
 ##Follow Up After Your First Meeting
 
 Congratulations! Your first meeting was a success. It’s important to keep in touch with your group after your first meeting to keep up the enthusiasm. Some suggestions:
 
-* Send out the slides: You can upload the slides to a website like Speakerdeck or Slideshare and send it out via email to the group. This is great way to share information about the meeting with members who were unable to attend.
+* Send out the slides: You can upload the slides to a website like [Speakerdeck](https://speakerdeck.com/) or [Slideshare](http://www.slideshare.net/) and send it out via email to the group. This is great way to share information about the meeting with members who were unable to attend.
 * Write a Blog Post: Summarize the details of your meeting and post it to your blog. Remember: blog posts don’t need to be long to be valuable. Just taking a photo and outlining the talks from your event is a great start.
 * Schedule your next meeting: If you haven’t done so before the meeting, email your co-organizers to schedule the following meeting right away. This will keep up the enthusiasm and the growth of the group.
 

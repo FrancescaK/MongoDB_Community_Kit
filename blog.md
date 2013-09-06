@@ -17,13 +17,13 @@ _Show Data_: You can't make your point without the facts! Consider including sta
 
 _Include sections_: Readers digest content in chunks. By breaking your post into sections, it will be easier for you to write and easier for your readers to consume. Leave a post for a few days before publishing and come back to it to check for readability.
 
-_Keep it short_: Blog posts don’t need to be long. In fact, I would urge you to try and keep posts concise (between 250 and 500 words). If the topic is especially broad then be sure to either break it up into multiple posts, or break the post up into logical sections to help readers digest the content.
+_Keep it short_: Blog posts don’t need to be long. In fact, we would urge you to try and keep posts concise (between 250 and 500 words). If the topic is especially broad then be sure to either break it up into multiple posts or break the post up into logical sections to help readers digest the content.
 
-_Build series_: Blog series are a great way to build momentum on your blog. They publicly commit you to a series of topics as well as building readers' interest.
+_Build series_: Blog series are a great way to build momentum on your blog. They publicly commit you to a series of topics in addition to building readers' interest.
 
 ###How to generate ideas
 
-Sometimes it can be hard to know where to start when it comes to blogging. Sometimes we think that our day-to-day can't possibly be publishable! Yet our experiences, especially when it comes to open source, can be incredibly valuable when shared, and sometimes what may seem like a mundane task to you is actually an opportunity for enlightenment to a new MongoDB user.
+It can often be hard to know where to start when it comes to blogging. Sometimes we think that our day-to-day can't possibly be publishable! Yet our experiences, especially when it comes to open source, can be incredibly valuable when shared, and sometimes what may seem like a mundane task to you is actually an opportunity for enlightenment for a new MongoDB user.
 
 Here are some ways to generate new ideas for MongoDB blogging content:
 

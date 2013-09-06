@@ -42,6 +42,7 @@ After the presentation, set aside some time to have an open discussion with the 
 * How many people are new to MongoDB?
 * What would they like to get out of the group? Networking, professional development, etc.
 * What are some presentations they would like to see?
+
 Remember to take photos!
 
 At the end of the event, remember to close the meeting by saying goodbye to attendees, announce the date for the next meeting and ask anyone if they would like to present in the future. Be sure to ask all speakers for their slides after the event so you can share with the group.
@@ -63,7 +64,7 @@ Network (in person): Go to a popular tech meetup in your area and invite some at
 Network (online): Get the word out to your colleagues. Share it with your LinkedIn connections, on Facebook and twitter. Email your co-workers and invite them to attend.
 
 ###Improve Content
-Finding speakers is difficult, but it’s not impossible. If you’re having a hard time finding good speakers, reach out to your contact at MongoDB. They might be able to support you there.
+Finding speakers is often difficult, but it’s never impossible. If you’re having a hard time finding good speakers, reach out to your contact at MongoDB. They might be able to support you there.
 Some speakers have a lot of potential, but need support. Offer your help and expertise to less-experienced presenters to ensure they can offer their best performance at your MUG. You can look over their slides before an event, or meet them beforehand to do a dry-run of the presentation.
 
 ###Improve the format

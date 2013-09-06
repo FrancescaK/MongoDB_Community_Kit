@@ -2,8 +2,8 @@ The MongoDB Developer Advocacy Kit
 ====================================
 
 Hello and welcome to the MongoDB Developer Advocacy Kit. This kit is designed to give guidance to those interested in
-participating in the MongoDB community. These directives are meant to help you, as a user and community member, help
-other users become successful in a growing open source community.
+participating in the MongoDB community. Included are directives meant to help you, as a user and community member, assist 
+others in achieving success in our growing open-source community.
 
 Table of Contents:
 

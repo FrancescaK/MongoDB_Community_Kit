@@ -11,7 +11,6 @@ Hackathons are a great way to expose developers in your company to MongoDB and s
     * Venue
     * Food
     * Audio/Visual
-
 * Provide resources and support for your participants
 * Demo apps
 * Invite high-profile judges and create special awards
@@ -49,4 +48,4 @@ For a list of user groups see [the user group page on MongoDB.com](http://www.mo
 
 ####Attend a MongoDB Event
 
-See a list of our upcoming webinars and events at [mongodb.com](http://www.mongodb.com/events)
+See a list of our upcoming events and webinars at [mongodb.com](http://www.mongodb.com/events)

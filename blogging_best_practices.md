@@ -1,6 +1,5 @@
 ##Blogging Best Practices
 
-=============================
 
 ###Why you should blog?
 

@@ -3,7 +3,7 @@ Blogging
 
 ###Why should you blog?
 
-Blogging is a great way to share your experiences. Blogging often and knowledgeably on a topic establishes you as a authority, as well as giving your thoughts a broad audience and making your insight available to readers for years.
+Blogging is a great way to share your experiences. Blogging often and knowledgeably on a topic establishes you as an authority, as well as giving your thoughts a broad audience and making your insight available to readers for years.
 
 ###Writing a great technical post
 
@@ -39,7 +39,7 @@ Here are some ways to generate new ideas for MongoDB blogging content:
 
 ###Where you can post
 
-_Your personal blog_: It's never been easier to create a blog. There are platforms like Wordpress, Tumblr, Jekyl and Octopress that make it dead simple to get your content out there. You can also post to Medium.
+_Your personal blog_: There are plenty of platforms like Wordpress, Tumblr, Jekyl and Octopress that make it dead simple to get your content out there.
 
 _Your company blog_: Many great companies have engineering blogs where they publish articles about the underlying technologies powering their business (see [foursquare](http://engineering.foursquare.com/) and [Server Density](https://blog.serverdensity.com/)). These blogs are a great way to get more exposure for your company in the developer community.
 
@@ -74,5 +74,5 @@ Want to get added? It's easy. [Get in touch](mailto:meetups@mongodb.com) with th
 
 * Name
 * Blog
-* RSS
+* RSS (if you blog about non-MongoDB topics, send a mongodb-specific category feed)
 * Why should you be on Planet MongoDB

@@ -9,7 +9,7 @@ Table of Contents:
 
 * [Letter to the Advocate: Welcome to the Developer Advocacy Kit](https://github.com/FrancescaK/MongoDB_DAK/blob/master/letter.md)
 * [Contributing to the Docs](https://github.com/FrancescaK/MongoDB_DAK/blob/master/docs.md)
-* [Contribuing Code](https://github.com/FrancescaK/MongoDB_DAK/blob/master/contributing_code.md)
+* [Contributing Code](https://github.com/FrancescaK/MongoDB_DAK/blob/master/contributing_code.md)
 * [Blogging](https://github.com/FrancescaK/MongoDB_DAK/blob/master/blog.md)
   * [Blogging Best Practices](https://github.com/FrancescaK/MongoDB_DAK/blob/master/blogging_best_practices.md)
 * [Starting a MongoDB User Group](https://github.com/FrancescaK/MongoDB_DAK/blob/master/mugs_dak.md)

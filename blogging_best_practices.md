@@ -1,6 +1,5 @@
 ##Blogging Best Practices
 
-
 ###Why you should blog?
 
 Blogging is a great way to share your experiences. Blogging often on a topic establishes you as a technology thought leader, giving your thoughts a broad audience and making them available to readers for years.
@@ -20,7 +19,7 @@ _Include sections_ Readers digest content in chunks. By breaking your post into 
 
 _Keep it short_ Blog posts don’t need to be long. In fact, I would urge you to keep posts concise (between 250 and 500 words). If the topic is especially broad then be sure to
 
-_Build series_ Blog series are a great way to build momentum on your blog. They publicly commit you to a series of topics, they get your readers interested in reading.
+_Build series_ Blog series are a great way to build momentum on your blog. Starting a series publicly commits you to a series of topics, and gets your readers interested in reading.
 
 
 ###How to generate ideas

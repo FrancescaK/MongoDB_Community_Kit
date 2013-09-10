@@ -13,11 +13,11 @@
 
 ###What's in it for your audience?
 
-* Presentations have DIRECT impact on both individual users and the larger community
-* Audience members want to learn from YOU and from your experience
-* Use cases and experience HELP people avoid similar errors
-* Every presentation given GROWS the collective knowledge base about MongoDB
-* YOU help create a community around MongoDB
+* Presentations have direct impact on both individual users and the larger community
+* Audience members want to learn from you and from your experience
+* Use cases and experience help people avoid similar errors
+* Every presentation given grows the collective knowledge base about MongoDB
+* You help create a community around MongoDB
 
 ###What Should You Talk About?
 Teach them something! MongoDB User Group members have different levels of experience with MongoDB, but everyone wants to learn more. Talk about topics you are comfortable with -- as technical or as conceptual as that may be.

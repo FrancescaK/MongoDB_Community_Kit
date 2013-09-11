@@ -18,6 +18,10 @@ Hackathons are a great way to expose developers in your company to MongoDB and s
 
 Let us know if you’d like help!
 
+###Host a Meetup
+
+If you don't want to or can't commit the resources to a hackathon, host a local meetup at your company. This is a great way to introduce MongoDB to any interested co-workers, and you can gain speaking experience sharing how you're using MongoDB on a project.
+
 -----
 
 ###Convince Your Manager

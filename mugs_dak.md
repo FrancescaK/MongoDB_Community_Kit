@@ -42,8 +42,8 @@ As you grow, you’ll be able to add photos, create your own logos and build a m
 
 ##Plan Your First Meeting
 
-Your first MUG Meeting is a great opportunity to meet enthusiastic members of the MongoDB community, and get a better idea of what they want out of the group. An introductory presentation on MongoDB would be a great fit for members new to MongoDB.
-After the presentation, set aside some time to have an open discussion with the attendees to find out the following:
+Your first MUG Meeting is a great opportunity to meet enthusiastic members of the MongoDB community and get a better idea of what they want out of the group. You can typically find a coworking space or company happy to host a meetup. If a company is hosting, it's best to clarify that they should not be actively recruiting at your event (but can mention they are hiring). 
+An introductory presentation on MongoDB is usually a great fit for members new to MongoDB. After the presentation, set aside some time to have an open discussion with the attendees to find out the following:
 * How many people are new to MongoDB?
 * What would they like to get out of the group? Networking, professional development, etc.
 * What are some presentations they would like to see?

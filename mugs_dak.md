@@ -22,7 +22,7 @@ discover new groups related to their interests.
 ###Google Groups
 Google Groups is a great platform to keep in touch. The one drawback is that Google Groups doesn't have the same type of discovery as Meetup.com, but is a good option for keeping in touch with your co-organizers.
 
-##Find a Co-Organizer--Or Two!
+##Find a Co-Organizer, Or Two!
 
 Starting a new community is a challenge, take it on with a friend or colleague. Most successful user groups have two or more organizers willing to take on planning events, finding speakers and encouraging participation within the local community.
 
@@ -31,7 +31,12 @@ Now that you have the foundation set up, it’s time to make the group your own.
 
 ###An example “About Us” statement for a user group
 
-“This group is a place for developers to learn more about the open source, JSON-based document database, MongoDB. MongoDB is the leading NoSQL database and many of the key committers are based right here in New York City. So if you want to explore a more flexible, scalable alternative, please join us at one of our monthly sessions. We typically meet on the third Tuesday of the month, have some pizza and network, and enjoy a presentation on MongoDB.”
+> This group is a place for developers to learn more about the open source, 
+> JSON-based document database, MongoDB. MongoDB is the leading NoSQL database 
+> and many of the key committers are based right here in New York City. So if you 
+> want to explore a more flexible, scalable alternative, please join us at one of our monthly sessions. 
+> We typically meet on the third Tuesday of the month, have some pizza and network, and enjoy a presentation on MongoDB.
+> We typically meet on the third Tuesday of the month, have some pizza and network, and enjoy a presentation on MongoDB.
 
 As you grow, you’ll be able to add photos, create your own logos and build a more solid web presence to help distinguish your group from the rest. But before that, you’ll have to plan your first meeting.
 
@@ -60,8 +65,8 @@ Congratulations! Your first meeting was a success. It’s important to keep in t
 Sometimes, your meetings will not meet your expectations. If you don’t have a large attendance during your first meeting, or if your first presentation wasn’t as exciting as you thought it would be, don’t be discouraged. Your group is young, and it still has potential to grow. Some suggestions on how to improve for your next meeting:
 
 ###Improve Membership and Attendance
-Network (in person): Go to a popular tech meetup in your area and invite some attendees to your next meeting. Create a small flier to give out with information on your next meeting and a link to your group. You might even meet a future speaker for your next group!
-Network (online): Get the word out to your colleagues. Share it with your LinkedIn connections, on Facebook and twitter. Email your co-workers and invite them to attend.
+_Network (in person)_: Go to a popular tech meetup in your area and invite some attendees to your next meeting. Create a small flier to give out with information on your next meeting and a link to your group. You might even meet a future speaker for your next group!
+_Network (online)_: Get the word out to your colleagues. Share it with your LinkedIn connections, on Facebook and twitter. Email your co-workers and invite them to attend.
 
 ###Improve Content
 Finding speakers is often difficult, but it’s never impossible. If you’re having a hard time finding good speakers, reach out to your contact at MongoDB. They might be able to support you there.

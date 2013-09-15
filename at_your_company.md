@@ -1,6 +1,9 @@
 At Your Company
 ================================
 
+If you believe MongoDB can benefit others at your company or organization, there are a number of ways you can introduce your colleagues
+to this new technology. 
+
 ###Host a Hackathon
 
 Hackathons are a great way to expose developers in your company to MongoDB and show managers what MongoDB can do. Try holding a hackathon for building a MongoDB app. Below are some best practices for planning a hackathon:
@@ -21,16 +24,6 @@ Let us know if you’d like help!
 ###Host a Meetup
 
 If you don't want to or can't commit the resources to a hackathon, host a local meetup at your company. This is a great way to introduce MongoDB to any interested co-workers, and you can gain speaking experience sharing how you're using MongoDB on a project.
-
------
-
-###Convince Your Manager
-You want to use MongoDB but need help convincing your manager. Let us help you communicate why MongoDB is the best solution for your company.
-
-* Watch our webinar on ["A Total Cost of Ownership Analysis for MongoDB"](http://www.mongodb.com/presentations/webinar-total-cost-ownership-analysis-mongodb)
-* Download our whitepaper on ["A Total Cost of Ownership Comparison of MongoDB & Oracle"](http://www.mongodb.com/dl/tco).
-
------
 
 ####Share our customer's success stories and solutions
 

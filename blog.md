@@ -5,14 +5,14 @@ If you're blogging about MongoDB, MongoDB's community team can help you gain exp
 and experience with other users. There are a number of ways to do this listed below: 
 
 ###Spread the word
-Once you've written your post, you need to build an audience. There are many ways to get people to read and engage with your blog. As you start building an audience, remember that quality is as important as quantity. Your early readers are critical. When your audience comments, respond and thank them for their feedback!  And remember, if someone leaves a negative comment, stay respectful and mature in your response.
+Once you've written your post, you need to build an audience. There are many ways to get people to read and engage with your blog. As you start building an audience, remember that quality is as important as quantity. Your early readers are critical. When your audience comments, respond and thank them for their feedback!  And remember, if someone leaves a negative comment, stay as respectful, positive, and productive as possible in your response.
 
 
-_Guest post on the MongoDB Blog_: We are happy to have guests posts on the MongoDB community blog. Just follow the guidelines above, and make sure the posts are technical in nature. Send a copy of a blog post or an abstract in a markdown format to the [MongoDB community team](mailto:meetups@mongodb.com). We’ll have a look to see if it is a good fit
+_Guest post on the MongoDB Blog_: We are happy to have guests posts on the MongoDB community blog. Just follow the guidelines above, and make sure the posts are technical in nature. Send a copy of a blog post or an abstract in a markdown format to the [MongoDB community team](mailto:meetups@mongodb.com). We’ll have a look to see if it is a good fit.
 
-_Social Media_: Social media is an obvious and extremely effective channel for getting the word out about your content. Using Twitter, identify relevant hashtags and tweet out your article. Make sure to follow your stream for any responses or feedback. Post an update on LinkedIn, Facebook, and Google+ to broaden your reach. You can also consider posting in relevant LinkedIn or Facebook groups to get further feedback.
+_Social Media_: Social media is an obvious and extremely effective channel for getting the word out about your content. Use Twitter to identify relevant hashtags and tweet out your article. Make sure to follow your stream for any responses or feedback. Post an update on LinkedIn, Facebook, and Google+ to broaden your reach. You can also consider posting in relevant LinkedIn or Facebook groups to get further feedback.
 
-_Hacker News_: Getting onto the front page of Hacker News will definitely bring traffic to your blog. You should be ready to respond to commentary on Hacker News should you get upvoted!
+_Hacker News_: Getting onto the front page of Hacker News will definitely bring traffic to your blog. You should be ready to respond to commentary (both critical and encouraging) on Hacker News should you get upvoted!
 
 _Reddit_: For MongoDB articles, there is an [active subreddit] (http://www.reddit.com/r/mongodb) where you can post interesting articles about MongoDB. Link to your reddit post on Twitter, and keep an eye out for comments and responses. In addition to the MongoDB subreddit, you should cross post to other relevant subreddits as appropriate, such as r/programming or r/python, etc.
 

@@ -18,6 +18,7 @@ Hackathons are a great way to expose developers in your company to MongoDB and s
 * Demo apps
 * Invite high-profile judges and create special awards
 * Showcase apps afterwards to your company
+* Blog about the hackathon and provide links to live apps afterwards
 
 Let us know if you’d like help!
 
@@ -44,5 +45,7 @@ For a list of user groups see [the user group page on MongoDB.com](http://www.mo
 ----
 
 ####Attend a MongoDB Event
+
+Encourage colleagues to attend a MongoDB Event with you. Discussing what you've learned with co-workers will enforce your new knowledge as well as allow you to share it with others back at the office.
 
 See a list of our upcoming events and webinars at [mongodb.com](http://www.mongodb.com/events)

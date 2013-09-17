@@ -7,9 +7,10 @@
 * Personal Name Recognition: Get your name out there with MongoDB enthusiasts
 * Association with a great product gives you credibility
 * Boost your speaking abilities and practice presenting
-* Polish your knowledge of MongoDB: Speaking forces MongoDB evangelists to aggregate and tweak their knowledge of the database
+* Polish your knowledge of MongoDB: Speaking forces MongoDB evangelists to deepen and tweak their knowledge of the database
 * Spread the word about a program that has changed and enhanced your career
 * Showcase your company: Speaking on specific use cases can be an easy way to promote your own organization
+* Recruit candidates with MongoDB interest or skills
 
 ###What's in it for your audience?
 
@@ -44,11 +45,11 @@ Some great topics include:
 Top 5 Tips on creating awesome Slide Decks:
 
 * Be precise: Most user group organizers make slides available online after the user group, so make sure they are correct and to the point.
-* Be visual: a clever picture, easy to read chart, or even simple bullet points convey clear information.
+* Be visual: a clever picture, easy to read chart, or even simple bullet points convey clear information. This is often more effective than code examples.
 * Use big fonts! Some meeting rooms are large and it is always hard to see from the back of the room.
 * Avoid including full text such as sentences and paragraphs in your slides. This makes it difficult for people to pay 
 attention to your thoughts and expertise.
-* Code samples: As a rule of thumb, keep code samples between 8-10 lines for simple readability. 
+* Code samples: As a rule of thumb, keep code samples between 8-10 lines for simple readability. Highlight the important lines. 
 * Know your audience - The audience is generally knowledgeable about MongoDB and related technologies. They are interested in hearing your insights and experience so they can become better MongoDB developers.
 
 ####Other great resources to help you build well-designed slides:
@@ -73,5 +74,5 @@ Presentations reach thousands of users around the world. Here are some places to
 * Make sure your computer or presentation will be compatible with the presentation setup available at the event. Ask the organizer to make sure you have the correct connecting equipment. If you need a different adapter for your laptop, please try to bring it with you.
 * Carry your presentations on a USB drive --- just in case.
 * Send your presentations to the organizer so they can distribute it with the group. It's great to share this information.
-* Internet connectivity: wifi can be tedious in some places. To avoid any painful situations with wifi, try to make any demos in your presentations available offline.
+* Internet connectivity: wifi can be unreliable in some places. To avoid any painful situations with wifi, try to make any demos in your presentations available offline.
 * Invite your friends! It's always fun to bring along friends, family, and coworkers to a user group -- but be sure to check with the organizer to ensure the meeting location has enough capacity.

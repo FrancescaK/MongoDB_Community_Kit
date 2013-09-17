@@ -6,8 +6,8 @@ Open source software is driven by community contribution, and one of the most ef
 Guidelines for Contributing:
 
 * Take a look at what’s there. Before starting to write code, look for existing [tickets](https://jira.mongodb.org/browse/) or [create one](https://jira.mongodb.org/secure/CreateIssue!default.jspa) for your bug, improvement, or feature request.
-* Avoid breaking backward compatibility.
-* Write inline documentation (comments) so others can understand your code.
+* Never introduce breaking backward changes.
+* Write inline documentation (comments) so project maintainers and others can understand your code.
 * Write tests and make sure they pass.
 * Make sure your code does not break any of the existing tests.
 * Review the appropriate project license. To contribute to the MongoDB Server, you must sign the [contributor agreement](http://www.mongodb.com/legal/contributor-agreement).

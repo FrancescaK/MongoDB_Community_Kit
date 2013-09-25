@@ -35,7 +35,7 @@ tutorials and presentations you find through the MongoDB Newsletter, blogs,
 Twitter or Facebook feeds to encourage your colleagues to think outside of their current technical paradigms. 
 
 
-####Innovation Time. 
+####Innovation Time
 
 Many companies offer engineers the opportunity to spend a certain 
 percentage of their time on new projects. Google is famous for offering 
@@ -57,16 +57,12 @@ and you can gain speaking experience sharing how you're using MongoDB on a proje
 * [User Data Management](http://www.mongodb.com/solutions/user-data-management)
 * [Data Hub](http://www.mongodb.com/solutions/data-hub)
 
------
-
 ####Attend a local MongoDB User Group
 
 Bring your boss to a local MongoDB User Group. This will help them see the technology in action and see the ecosystem around the database.
 
 For a list of user groups see [the user group page on MongoDB.com](http://www.mongodb.com/user-groups)
 
-----
-
 ####Attend a MongoDB Event
 
-See a list of our upcoming events and webinars at [mongodb.com](http://www.mongodb.com/events)
+MongoDB hosts events around the world. See a list of our upcoming events and webinars at [mongodb.com](http://www.mongodb.com/events)

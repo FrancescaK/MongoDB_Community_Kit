@@ -5,12 +5,10 @@ Blogging is an awesome way to share your knowledge and experiences with others. 
 can help you gain exposure for your content, so you can share your knowledge and experience with other users. For more tips on Blogging Check out
 the [Blogging Best Practices](https://github.com/FrancescaK/MongoDB_DAK/blob/master/blogging_best_practices.md) section.
 
-<<<<<<< HEAD:Blogging.md
 ###Spread the word
 Once you've written your post, you need to build an audience. There are many ways to get people to read and engage with your blog. As you start building an audience, remember that quality is as important as quantity. Your early readers are critical. When your audience comments, respond and thank them for their feedback!  And remember, if someone leaves a negative comment, stay as respectful, positive, and productive as possible in your response.
 =======
 ###Where you can post
->>>>>>> 886760cf5e8f216b430ac4069d92a94beaaef197:blog.md
 
 _Your personal blog_ It's never been easier to create a blog. There are platforms like Wordpress, Tumblr, Jekyl and Octopress that make it dead simple to get your content out there. You can also post to Medium.
 
@@ -24,8 +22,6 @@ _Hacker News_: Getting onto the front page of Hacker News will definitely bring 
 _Your company blog_ Many great companies have engineering blogs where they publish articles about the underlying technologies powering their business (see [foursquare](http://engineering.foursquare.com/) and [Server Density](https://blog.serverdensity.com/)). These blogs are a great way to get more exposure for your company in the developer community.
 
 _Guest post on the MongoDB Blog_ We are happy to have guests posts on the MongoDB community blog. Just follow the guidelines above, and make sure the posts are technical in nature. Send a copy of a blog post or an abstract in a markdown format to the [MongoDB community team](mailto:meetups@mongodb.com). We’ll have a look to see if it is a good fit!
-
->>>>>>> 886760cf5e8f216b430ac4069d92a94beaaef197:blog.md
 
 ###Sharing Your Content 
 

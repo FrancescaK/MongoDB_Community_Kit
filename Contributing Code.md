@@ -3,7 +3,7 @@ Contributing Code
 
 Open source software is driven by community contribution, and one of the most effective ways to participate is by contributing code to either the [MongoDB Server Repo](https://github.com/mongodb/mongo) or one of the [many related projects](http://docs.mongodb.org/ecosystem/drivers/).
 
-Guidelines for Contributing:
+###Guidelines for Contributing:
 
 ####Pre-Pull Request: Searching for Issues
 

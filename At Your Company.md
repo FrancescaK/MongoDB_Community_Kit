@@ -72,4 +72,3 @@ Encourage colleagues to attend a MongoDB Event with you. Discussing what you've 
 See a list of our upcoming events and webinars at [mongodb.com](http://www.mongodb.com/events)
 =======
 MongoDB hosts events around the world. See a list of our upcoming events and webinars at [mongodb.com](http://www.mongodb.com/events)
->>>>>>> 886760cf5e8f216b430ac4069d92a94beaaef197:at_your_company.md

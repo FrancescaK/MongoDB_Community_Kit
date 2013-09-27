@@ -8,8 +8,8 @@ and engineering professionals. You can:
 
 * Give a talk on how you've used MongoDB at your company, and what you've learned in the process.
 * Write a blog post with practical advice on how to use MongoDB in production (get featured on [planet.mongodb.org](http://planet.mongodb.org)!)
-* Create open source tools, frameworks, or drivers for MongoDB that enable your fellow developers.
-* Create a local User Group that engages community members and advocates for the use of MongoDB by local engineers and companies.
+* Create open source tools, frameworks, or drivers for MongoDB that enable new uses for MongoDB.
+* Create a local User Group that engages community members and advocates 
 
 There are hundreds of ways for you to make an impact and develop your knowledge, skills, and experience. 
 This guide is meant to help you get started and introduce you to the techniques that have worked for others. 

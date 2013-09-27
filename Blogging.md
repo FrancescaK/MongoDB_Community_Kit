@@ -13,7 +13,6 @@ Once you've written your post, you need to build an audience. There are many way
 
 _Your personal blog_ It's never been easier to create a blog. There are platforms like Wordpress, Tumblr, Jekyl and Octopress that make it dead simple to get your content out there. You can also post to Medium.
 
-<<<<<<< HEAD:Blogging.md
 _Guest post on the MongoDB Blog_: We are happy to have guests posts on the MongoDB community blog. Just follow the guidelines above, and make sure the posts are technical in nature. Send a copy of a blog post or an abstract in a markdown format to the [MongoDB community team](mailto:meetups@mongodb.com). We’ll have a look to see if it is a good fit.
 
 _Social Media_: Social media is an obvious and extremely effective channel for getting the word out about your content. Use Twitter to identify relevant hashtags and tweet out your article. Make sure to follow your stream for any responses or feedback. Post an update on LinkedIn, Facebook, and Google+ to broaden your reach. You can also consider posting in relevant LinkedIn or Facebook groups to get further feedback.

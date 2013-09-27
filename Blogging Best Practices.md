@@ -38,7 +38,6 @@ Here are some ways to generate new ideas for MongoDB blogging content:
 * Write a "How To" on MongoDB with a specific language, framework, or open source tool.
 * Turn conference or meetup presentations into blog posts or post your slides to your blog with short summaries.
 
-<<<<<<< HEAD:Blogging Best Practices.md
 ###Where you can post
 
 _Your personal blog_ It's never been easier to create a blog. There are platforms like Wordpress, Tumblr, Jekyl and Octopress that make it dead simple to get your content out there. You can also post to Medium.
@@ -46,7 +45,7 @@ _Your personal blog_ It's never been easier to create a blog. There are platform
 _Your company blog_ Many great companies have engineering blogs where they publish articles about the underlying technologies powering their business (see [foursquare](http://engineering.foursquare.com/) and [Server Density](https://blog.serverdensity.com/)). These blogs are a great way to get more exposure for your company in the developer community.
 
 _Guest post on the MongoDB Blog_ We are happy to have guests posts on the MongoDB community blog. Just follow the guidelines above, and make sure the posts are technical in nature. Send a copy of a blog post or an abstract in a markdown format to the [MongoDB community team](mailto:meetups@mongodb.com). We’ll have a look to see if it is a good fit!
-=======
+
 ###Spread the word
 
 Once you've written your post, you need to build an audience. There are many ways to get people to read and engage with your blog. As you start building an audience, remember that quality is as important as quantity. Your early readers are critical. When your audience comments, respond and thank them for their feedback!
@@ -62,5 +61,4 @@ _MongoDB Community_: If you're looking for publicity from the official MongoDB c
 _Local UGs_: Are you the member of a local MongoDB or programming language meetup? Many of those groups have active mailing lists or user forums, which are great places to post your blog.
 
 _Newsletters_: Getting listed in a newsletter is another way to expand reach for your blog post. Some examples of interesting technical newsletters include [DevOps Weekly](http://devopsweekly.com/), [Python Weekly](http://www.pythonweekly.com/), and [NoSQL Weekly](http://www.nosqlweekly.com/). If you’re interested in getting featured in the MongoDB newsletter, [contact the MongoDB community team](mailto:meetups@10gen.com).
->>>>>>> 886760cf5e8f216b430ac4069d92a94beaaef197:blogging_best_practices.md
 

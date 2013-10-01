@@ -66,7 +66,6 @@ For a list of user groups see [MongoDB.com/user-groups](http://www.mongodb.com/u
 
 ####Attend a MongoDB Event
 
-<<<<<<< HEAD
 At Your Company.md
 Encourage colleagues to attend a MongoDB Event with you. Discussing what you've learned with co-workers will enforce your new knowledge as well as allow you to share it with others back at the office.
 

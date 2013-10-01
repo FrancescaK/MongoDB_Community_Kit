@@ -11,7 +11,7 @@ Once you've written your post, you need to build an audience. There are many way
 
 ###Where you can post
 
-_Your personal blog_ It's never been easier to create a blog. There are platforms like Wordpress, Tumblr, Jekyl and Octopress that make it dead simple to get your content out there. You can also post to Medium.
+_Your personal blog_ It has never been easier to create a blog. There are platforms like Wordpress, Tumblr, Jekyl and Octopress that make it dead simple to get your content out there. You can also post to Medium.
 
 _Guest post on the MongoDB Blog_: We are happy to have guests posts on the MongoDB community blog. Just follow the guidelines above, and make sure the posts are technical in nature. Send a copy of a blog post or an abstract in a markdown format to the [MongoDB community team](mailto:meetups@mongodb.com). We’ll have a look to see if it is a good fit.
 

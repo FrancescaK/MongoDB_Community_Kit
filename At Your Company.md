@@ -40,8 +40,8 @@ Twitter or Facebook feeds to encourage your colleagues to think outside of their
 
 Many companies offer engineers the opportunity to spend a certain 
 percentage of their time on new projects. Google is famous for offering 
-its development teams ‘20% time’ for new initiatives, which has produced a 
-number of key innovations, such as Gmail and Google Groups. If you have "20%" time at work
+its development teams "20% time" for new initiatives, which has produced a 
+number of key innovations, such as Gmail and Google Groups. If you have "20% time" at work
 consider working on a MongoDB Project with a team. 
 
 ###Host a Meetup
@@ -62,14 +62,20 @@ and you can gain speaking experience sharing how you're using MongoDB on a proje
 
 Bring your boss to a local MongoDB User Group. This will help them see the technology in action and see the ecosystem around the database.
 
-For a list of user groups see [the user group page on MongoDB.com](http://www.mongodb.com/user-groups)
+For a list of user groups see [MongoDB.com/user-groups](http://www.mongodb.com/user-groups).
 
 ####Attend a MongoDB Event
 
+<<<<<<< HEAD
 At Your Company.md
 Encourage colleagues to attend a MongoDB Event with you. Discussing what you've learned with co-workers will enforce your new knowledge as well as allow you to share it with others back at the office.
 
 See a list of our upcoming events and webinars at [mongodb.com](http://www.mongodb.com/events)
 =======
 MongoDB hosts events around the world. See a list of our upcoming events and webinars at [mongodb.com](http://www.mongodb.com/events)
+
+=======
+Encourage colleagues to attend a MongoDB Event with you. Discussing what you've learned with co-workers will enforce your new knowledge as well as allow you to share it with others back at the office.
+
+See a list of our upcoming events and webinars at [MongoDB.com/events](http://www.mongodb.com/events).
 

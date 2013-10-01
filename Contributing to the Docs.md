@@ -13,4 +13,4 @@ For more information on the MongoDB documentation process, see:
 * [MongoDB Documentation Organization](http://docs.mongodb.org/manual/meta/organization/)
 * [Build and Deploy the MongoDB Documentation](http://docs.mongodb.org/manual/meta/build/)
 
-If you have any questions about the Docs, please feel free to open a [Jira Case](https://jira.mongodb.org/browse/DOCS).
+If you have any questions about the Docs, please feel free to [open a Jira Case in the DOCS project](https://jira.mongodb.org/browse/DOCS).

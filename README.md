@@ -7,11 +7,11 @@ others in achieving success in our growing open-source community.
 
 Table of Contents:
 
-* [Letter to the Advocate: Welcome to the Developer Advocacy Kit](https://github.com/FrancescaK/MongoDB_DAK/blob/master/A%20Letter%20to%20the%20Advocate.md)
-* [Contributing to the Docs](https://github.com/FrancescaK/MongoDB_DAK/blob/master/Contributing%20to%20the%20Docs.md)
-* [Contributing Code](https://github.com/FrancescaK/MongoDB_DAK/blob/master/Contributing%20Code.md)
-* [Blogging](https://github.com/FrancescaK/MongoDB_DAK/blob/master/Blogging.md)
-  * [Blogging Best Practices](https://github.com/FrancescaK/MongoDB_DAK/blob/master/Blogging%20Best%20Practices.md)
-* [Starting a MongoDB User Group](https://github.com/FrancescaK/MongoDB_DAK/blob/master/MongoDB%20User%20Groups.md)
-* [Speaking about MongoDB](https://github.com/FrancescaK/MongoDB_DAK/blob/master/Speaking%20About%20MongoDB.md)
-* [Advocate for MongoDB at Your Company](https://github.com/FrancescaK/MongoDB_DAK/blob/master/At%20Your%20Company.md)
+* [Letter to the Advocate: Welcome to the Developer Advocacy Kit](A%20Letter%20to%20the%20Advocate.md)
+* [Contributing to the Docs](Contributing%20to%20the%20Docs.md)
+* [Contributing Code](Contributing%20Code.md)
+* [Blogging](Blogging.md)
+  * [Blogging Best Practices](Blogging%20Best%20Practices.md)
+* [Starting a MongoDB User Group](MongoDB%20User%20Groups.md)
+* [Speaking about MongoDB](Speaking%20About%20MongoDB.md)
+* [Advocate for MongoDB at Your Company](At%20Your%20Company.md)

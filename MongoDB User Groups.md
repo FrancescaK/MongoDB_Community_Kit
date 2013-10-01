@@ -36,44 +36,52 @@ Now that you have the foundation set up, it’s time to make the group your own.
 > and many of the key committers are based right here in New York City. So if you 
 > want to explore a more flexible, scalable alternative, please join us at one of our monthly sessions. 
 > We typically meet on the third Tuesday of the month, have some pizza and network, and enjoy a presentation on MongoDB.
-> We typically meet on the third Tuesday of the month, have some pizza and network, and enjoy a presentation on MongoDB.
 
 As you grow, you’ll be able to add photos, create your own logos and build a more solid web presence to help distinguish your group from the rest. But before that, you’ll have to plan your first meeting.
 
 ###Plan Your First Meeting
 
-Your first MUG Meeting is a great opportunity to meet enthusiastic members of the MongoDB community and get a better idea of what they want out of the group. You can typically find a coworking space or company happy to host a meetup. If a company is hosting, it's best to clarify that they should not be actively recruiting at your event (but can mention they are hiring). 
-An introductory presentation on MongoDB is usually a great fit for members new to MongoDB. After the presentation, set aside some time to have an open discussion with the attendees to find out the following:
-* How many people are new to MongoDB?
-* What would they like to get out of the group? Networking, professional development, etc.
-* What are some presentations they would like to see?
+Your first MUG Meeting is a great opportunity to meet enthusiastic members of the MongoDB community and get a better idea of what they want out of the group. You can typically find a coworking space or company happy to host a meetup. If a company is hosting, it's best to clarify that they should not be actively recruiting at your event (but can mention they are hiring). An introductory presentation on MongoDB is usually a great fit for members new to MongoDB.
+
+After the presentation, set aside some time to have an open discussion with the attendees to find out the following:
+
+ * How many people are new to MongoDB?
+ * What would they like to get out of the group? Networking, professional development, etc.
+ * What are some presentations they would like to see?
 
 Remember to take photos!
 
-At the end of the event, remember to close the meeting by saying goodbye to attendees, announce the date for the next meeting and ask anyone if they would like to present in the future. Be sure to ask all speakers for their slides after the event so you can share with the group.
+At the end of the event, remember to close the meeting by saying goodbye to attendees, announcing the date for the next meeting, and asking anyone if they would like to present in the future. Be sure to ask all speakers for their slides after the event so you can share with the group.
 
 ###Follow Up After Your First Meeting
 
 Congratulations! Your first meeting was a success. It’s important to keep in touch with your group after your first meeting to keep up the enthusiasm. Some suggestions:
 
-* Send out the slides: You can upload the slides to a website like [Speakerdeck](https://speakerdeck.com/) or [Slideshare](http://www.slideshare.net/) and send it out via email to the group. This is great way to share information about the meeting with members who were unable to attend.
-* Write a Blog Post: Summarize the details of your meeting and post it to your blog. Remember: blog posts don’t need to be long to be valuable. Just taking a photo and outlining the talks from your event is a great start.
-* Schedule your next meeting: If you haven’t done so before the meeting, email your co-organizers to schedule the following meeting right away. This will keep up the enthusiasm and the growth of the group.
+* **Send out the slides**: You can upload the slides to a website like [Speakerdeck](https://speakerdeck.com/) or [Slideshare](http://www.slideshare.net/) and send it out via email to the group. This is great way to share information about the meeting with members who were unable to attend.
+* **Write a Blog Post**: Summarize the details of your meeting and post it to your blog. Remember: blog posts don’t need to be long to be valuable. Just taking a photo and outlining the talks from your event is a great start.
+* **Schedule your next meeting**: If you haven’t done so before the meeting, email your co-organizers to schedule the following meeting right away. This will keep up the enthusiasm and the growth of the group.
 
 ###What if you’re disappointed?
 
-Sometimes, your meetings will not meet your expectations. If you don’t have a large attendance during your first meeting, or if your first presentation wasn’t as exciting as you thought it would be, don’t be discouraged. Your group is young, and it still has potential to grow. Some suggestions on how to improve for your next meeting:
+Sometimes, your meetings will not meet your expectations. If you don’t have a large attendance during your first meeting, or if your first presentation wasn’t as exciting as you thought it would be, don’t be discouraged. Your group is young, and it still has potential to grow.
+
+Some suggestions on how to improve for your next meeting:
 
 ####Improve Membership and Attendance
 _Network (in person)_: Go to a popular tech meetup in your area and invite some attendees to your next meeting. Create a small flier to give out with information on your next meeting and a link to your group. You might even meet a future speaker for your next group!
+
 _Network (online)_: Get the word out to your colleagues. Share it with your LinkedIn connections, on Facebook and twitter. Email your co-workers and invite them to attend.
+
+_Consistency_: Consistent meeting times and venues can help attendees keep track of when and where the next meetup is on.  For example, you could decide the group will have a monthly meetup on "last Tuesday of every month" so members can add a recurring calendar reminder.  Where possible, try to confirm your proposed meeting date and venue availability well in advance to avoid scheduling conflicts.
 
 ####Improve Content
 Finding speakers is often difficult, but it’s never impossible. If you’re having a hard time finding good speakers, reach out to your contact at MongoDB. They might be able to support you there.
 Some speakers have a lot of potential, but need support. Offer your help and expertise to less-experienced presenters to ensure they can offer their best performance at your MUG. You can look over their slides before an event, or meet them beforehand to do a dry-run of the presentation.
 
-####Improve the format
-No slides: Sometimes, presentations are not ideal for your group, and people prefer more hands-on content. That’s ok. Just like with software development, iteration is important. Try some other formats for your user group and see what works best.
+It's also important to try to ensure the content matches the general experience level of your attendees.  For example, if the majority of the group is new to MongoDB you may need to start with more basic talks or encourage questions so the group is able to follow more technical talks.  A mix of talks (basic and advanced) can also help grow the audience.
+
+####Vary the meeting format
+Sometimes presentations are not ideal for your group and people prefer more hands-on content. That’s ok. Just like with software development, iteration is important. Try some other formats for your user group and see what works best.  Some alternatives to slide-based presentations include hack nights, code walkthroughs, quiz nights, lightning talks, and reading groups.
 
 ####Other concerns?
 

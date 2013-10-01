@@ -64,7 +64,7 @@ Remember: Public speaking doesn’t have to be scary! We are here to help -- We 
 Presentations reach thousands of users around the world. Here are some places to share your knowledge:
 
 * External Conferences: Find conferences accepting talk proposals.
-* [MUGs](http://www.mongodb.com/user-groups): A more informal place to practice your presentation and meet great people.
+* [MongoDB User Groups (MUGs)](http://www.mongodb.com/user-groups): A more informal place to practice your presentation and meet great people.
 * [MongoDB Days](http://www.mongodb.com/events): Full day events for more advanced and more technical presentations.
 * Lightning Talks and Demos: Offer to give a 5-10 minute presentation on a MongoDB tool to build up your presentation skills.
 

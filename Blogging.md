@@ -3,7 +3,7 @@ Blogging
 
 Blogging is an awesome way to share your knowledge and experiences with others. If you're blogging about MongoDB, MongoDB's community team 
 can help you gain exposure for your content, so you can share your knowledge and experience with other users. For more tips on Blogging Check out
-the [Blogging Best Practices](https://github.com/FrancescaK/MongoDB_DAK/blob/master/blogging_best_practices.md) section.
+the [Blogging Best Practices](blogging_best_practices.md) section.
 
 ###Spread the word
 
@@ -11,7 +11,7 @@ Once you've written your post, you need to build an audience. There are many way
 
 ###Where you can post
 
-_Your personal blog_ It's never been easier to create a blog. There are platforms like Wordpress, Tumblr, Jekyl and Octopress that make it dead simple to get your content out there. You can also post to Medium.
+_Your personal blog_ It has never been easier to create a blog. There are platforms like Wordpress, Tumblr, Jekyl and Octopress that make it dead simple to get your content out there. You can also post to Medium.
 
 _Guest post on the MongoDB Blog_: We are happy to have guests posts on the MongoDB community blog. Just follow the guidelines above, and make sure the posts are technical in nature. Send a copy of a blog post or an abstract in a markdown format to the [MongoDB community team](mailto:meetups@mongodb.com). We’ll have a look to see if it is a good fit.
 
@@ -25,7 +25,7 @@ _Guest post on the MongoDB Blog_ We are happy to have guests posts on the MongoD
 
 ###Sharing Your Content 
 
-There are a number of different social channels you can use to share your content listed in our [Blogging Best Practices section](https://github.com/FrancescaK/MongoDB_DAK/blob/master/blogging_best_practices.md#spread-the-word)
+There are a number of different social channels you can use to share your content listed in our [Blogging Best Practices section](blogging_best_practices.md#spread-the-word)
 
 ###Planet MongoDB
 

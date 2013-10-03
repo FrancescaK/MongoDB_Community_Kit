@@ -23,8 +23,6 @@ _Hacker News_: Getting onto the front page of Hacker News will definitely bring 
 
 _Your company blog_ Many great companies have engineering blogs where they publish articles about the underlying technologies powering their business (see [foursquare](http://engineering.foursquare.com/) and [Server Density](https://blog.serverdensity.com/)). These blogs are a great way to get more exposure for your company in the developer community.
 
-_Guest post on the MongoDB Blog_ We are happy to have guests posts on the MongoDB community blog. Just follow the guidelines above, and make sure the posts are technical in nature. Send a copy of a blog post or an abstract in a markdown format to the [MongoDB community team](mailto:meetups@mongodb.com). We’ll have a look to see if it is a good fit!
-
 ###Sharing Your Content 
 
 There are a number of different social channels you can use to share your content listed in our [Blogging Best Practices section](blogging_best_practices.md#spread-the-word)

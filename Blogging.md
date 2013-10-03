@@ -3,7 +3,7 @@ Blogging
 
 Blogging is an awesome way to share your knowledge and experiences with others. If you're blogging about MongoDB, MongoDB's community team 
 can help you gain exposure for your content, so you can share your knowledge and experience with other users. For more tips on Blogging Check out
-the [Blogging Best Practices](blogging_best_practices.md) section.
+the [Blogging Best Practices](Blogging Best Practices.md) section.
 
 =======
 ###Spread the word

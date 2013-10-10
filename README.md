@@ -16,4 +16,5 @@ Table of Contents:
 * [Speaking about MongoDB](Speaking%20About%20MongoDB.md)
 * [Advocate for MongoDB at Your Company](At%20Your%20Company.md)
 
+###License
 This package is released under the [Creative Commons licence CC BY-NC-SA 3.0](http://creativecommons.org/licenses/by-nc-sa/3.0/)

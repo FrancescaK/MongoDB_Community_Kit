@@ -50,7 +50,7 @@ If you don't want to or can't commit the resources to a hackathon, host a local 
 your company. This is a great way to introduce MongoDB to any interested co-workers, 
 and you can gain speaking experience sharing how you're using MongoDB on a project.
 
-####Share our customer's success stories and solutions
+####Share other user's success stories and solutions
 
 * [Big Data](http://www.mongodb.com/solutions/big-data)
 * [Content Management and Delivery](http://www.mongodb.com/solutions/content-management-and-delivery)
@@ -66,15 +66,10 @@ For a list of user groups see [MongoDB.com/user-groups](http://www.mongodb.com/u
 
 ####Attend a MongoDB Event
 
-At Your Company.md
 Encourage colleagues to attend a MongoDB Event with you. Discussing what you've learned with co-workers will enforce your new knowledge as well as allow you to share it with others back at the office.
 
+#####Other Resources
 See a list of our upcoming events and webinars at [mongodb.com](http://www.mongodb.com/events)
-=======
+
 MongoDB hosts events around the world. See a list of our upcoming events and webinars at [mongodb.com](http://www.mongodb.com/events)
-
-=======
-Encourage colleagues to attend a MongoDB Event with you. Discussing what you've learned with co-workers will enforce your new knowledge as well as allow you to share it with others back at the office.
-
-See a list of our upcoming events and webinars at [MongoDB.com/events](http://www.mongodb.com/events).
 

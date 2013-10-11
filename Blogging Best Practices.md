@@ -2,7 +2,7 @@
 
 ###Why you should blog?
 
-Blogging is a great way to share your experiences. Blogging often on a topic establishes you as a technology thought leader, giving your thoughts a broad audience and making them available to readers for years.
+Blogging is a great way to share your experiences. Blogging on a topic frequently establishes you as a technology thought leader, giving your thoughts a broad audience and making them available to readers for years.
 
 
 ###Writing a great technical post
@@ -17,14 +17,14 @@ _Show Data_ You can't make your point without the facts! Consider including stat
 
 _Include sections_ Readers digest content in chunks. By breaking your post into sections with subtitles, it will be easier for you to write and easier for your readers to consume. Leave a post for a few days before publishing and come back to it to check for readability.
 
-_Keep it short_ Blog posts don’t need to be long. In fact, I would urge you to keep posts concise (between 250 and 500 words). If the topic is especially broad then be sure to #TODO missing content
+_Keep it short_ Blog posts don’t need to be long. In fact, I would urge you to keep posts concise (between 250 and 500 words). If the topic is especially broad then it may be best to spread the content across multiple posts than a single large post.
 
 _Build series_ Blog series are a great way to build momentum on your blog. Starting a series publicly commits you to a series of topics, and gets your readers interested in reading.
 
 
 ###How to generate ideas
 
-Sometimes it can be hard to know where to start when it comes to blogging. Sometimes we think that our day-to-day can't possibly be publishable! Our experiences-- especially in the context of open source software-- can be incredibly valuable when shared.  Sometimes what may seem like a mundane task to you is actually an opportunity for enlightenment to a new MongoDB user.
+Sometimes it can be hard to know where to start when it comes to blogging. Sometimes we think that our day-to-day can't possibly be publishable! Our experiences-- especially in the context of open source software-- can be incredibly valuable when shared.  Sometimes what may seem like a mundane task to you is actually valuable and informative for a new MongoDB user.
 
 Here are some ways to generate new ideas for MongoDB blogging content:
 

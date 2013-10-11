@@ -37,28 +37,3 @@ Here are some ways to generate new ideas for MongoDB blogging content:
 * Have you written an open source tool that you want to show off? A blog is a great way to get users and contributors.
 * Write a "How To" on MongoDB with a specific language, framework, or open source tool.
 * Turn conference or meetup presentations into blog posts or post your slides to your blog with short summaries.
-
-###Where you can post
-
-_Your personal blog_ It's never been easier to create a blog. There are platforms like Wordpress, Tumblr, Jekyl and Octopress that make it dead simple to get your content out there. You can also post to Medium.
-
-_Your company blog_ Many great companies have engineering blogs where they publish articles about the underlying technologies powering their business (see [foursquare](http://engineering.foursquare.com/) and [Server Density](https://blog.serverdensity.com/)). These blogs are a great way to get more exposure for your company in the developer community.
-
-_Guest post on the MongoDB Blog_ We are happy to have guests posts on the MongoDB community blog. Just follow the guidelines above, and make sure the posts are technical in nature. Send a copy of a blog post or an abstract in a markdown format to the [MongoDB community team](mailto:meetups@mongodb.com). We’ll have a look to see if it is a good fit!
-
-###Spread the word
-
-Once you've written your post, you need to build an audience. There are many ways to get people to read and engage with your blog. As you start building an audience, remember that quality is as important as quantity. Your early readers are critical. When your audience comments, respond and thank them for their feedback!
-
-_Social Media_: Social media is an obvious channel for getting the word out about your content. Using Twitter, identify relevant hashtags and tweet out your article. Make sure to follow your stream for any responses or feedback. Post an update on LinkedIn, Facebook, and Google+ to broaden your reach. You can also consider posting in relevant LinkedIn or Facebook groups to get further feedback.
-
-_Hacker News_: Getting onto the front page of Hacker News will definitely bring traffic to your blog. You should be ready to respond to commentary on Hacker News should you get upvoted!
-
-_Reddit_: For MongoDB articles, there is an [active subreddit] (http://www.reddit.com/r/mongodb) where you can post interesting articles about MongoDB. Link on Twitter, keep an eye out for comments and responses. In addition to the MongoDB subreddit, you should cross post to other relevant subreddits as appropriate, such as r/programming or r/python, etc.
-
-_MongoDB Community_: If you're looking for publicity from the official MongoDB channels, get in touch with the MongoDB community team! We can help you get your article tweeted out from @mongodb and posted in other official social media channels. We may also have other suggestions for getting the word out.
-
-_Local UGs_: Are you the member of a local MongoDB or programming language meetup? Many of those groups have active mailing lists or user forums, which are great places to post your blog.
-
-_Newsletters_: Getting listed in a newsletter is another way to expand reach for your blog post. Some examples of interesting technical newsletters include [DevOps Weekly](http://devopsweekly.com/), [Python Weekly](http://www.pythonweekly.com/), and [NoSQL Weekly](http://www.nosqlweekly.com/). If you’re interested in getting featured in the MongoDB newsletter, [contact the MongoDB community team](mailto:meetups@10gen.com).
-

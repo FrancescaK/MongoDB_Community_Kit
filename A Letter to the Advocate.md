@@ -1,4 +1,4 @@
-Hello and welcome to the MongoDB Developer Advocacy Kit (DAK). 
+Hello and welcome to the MongoDB Community Kit. 
 
 As a MongoDB user, you have the opportunity to make a large impact on a vibrant community of open source developers 
 and engineering professionals. You can:

@@ -1,11 +1,14 @@
-The MongoDB Community Kit
+El Kit de la Comunidad de Mongodb
 ====================================
+#TODO: Translate article names and links as soon as each one is translated.
 
-Hello and welcome to the MongoDB Community Kit. This kit is designed to give guidance to those interested in
-participating in the MongoDB community. Included are directives meant to help you, as a user and community member, assist 
-others in achieving success in our growing open-source community.
+Hola y bienvenido al Kit de la Comunidad de Mongodb. Está diseñado para proporcionar una
+guía a aquellos interesados en participar en la comunidad de Mongodb. Incluye
+las directivas destinadas a servirte de ayuda, como usuario y como miembro de la
+comunidad, para asistir a otros en alcanzar el éxito en hacer crecer la comunidad
+open-source.
 
-Table of Contents:
+Tabla de contenidos:
 
 * [Letter to the Advocate: Welcome to the Developer Advocacy Kit](A%20Letter%20to%20the%20Advocate.md)
 * [Contributing to the Docs](Contributing%20to%20the%20Docs.md)
@@ -16,5 +19,5 @@ Table of Contents:
 * [Speaking about MongoDB](Speaking%20About%20MongoDB.md)
 * [Advocate for MongoDB at Your Company](At%20Your%20Company.md)
 
-###License
-This package is released under the [Creative Commons licence CC BY-NC-SA 3.0](http://creativecommons.org/licenses/by-nc-sa/3.0/)
+###Licencia
+Este paquete se distribuye bajo licencia [Creative Commons licence CC BY-NC-SA 3.0](http://creativecommons.org/licenses/by-nc-sa/3.0/)

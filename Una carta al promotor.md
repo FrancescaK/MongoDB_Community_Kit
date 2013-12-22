@@ -1,4 +1,4 @@
-Hola y bienvebido al Kit de la Comuniad de Mongodb.
+Hola y bienvenido al Kit de la Comunidad de Mongodb.
 
 Como usuario de MongoDB, tienes la oportunidad de provocar un fuerte impacto en la vibrante comunidad
 de los desarrolladores open source y los profesionales de la ingeniería. Puedes:

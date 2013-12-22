@@ -10,7 +10,8 @@ open-source.
 
 Tabla de contenidos:
 
-* [Letter to the Advocate: Welcome to the Developer Advocacy Kit](A%20Letter%20to%20the%20Advocate.md)
+* [Carta al promotor: Bienvenido al Kit de Desarrollador Promotor](Una%20carta%20al%20promotor.md)
+
 * [Contributing to the Docs](Contributing%20to%20the%20Docs.md)
 * [Contributing Code](Contributing%20Code.md)
 * [Blogging](Blogging.md)

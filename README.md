@@ -11,10 +11,9 @@ open-source.
 Tabla de contenidos:
 
 * [Carta al promotor: Bienvenido al Kit de Desarrollador Promotor](Una%20carta%20al%20promotor.md)
-* 
+* [Contribuir a la documentación](Contributing%20to%20the%20Docs.md)
 * [Contribuir al código](Contribuir%20al%20c%C3%B3digo)
 
-* [Contributing to the Docs](Contributing%20to%20the%20Docs.md)
 * [Blogging](Blogging.md)
   * [Blogging Best Practices](Blogging%20Best%20Practices.md)
 * [Starting a MongoDB User Group](MongoDB%20User%20Groups.md)

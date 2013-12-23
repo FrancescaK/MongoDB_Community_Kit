@@ -11,8 +11,9 @@ open-source.
 Tabla de contenidos:
 
 * [Carta al promotor: Bienvenido al Kit de Desarrollador Promotor](Una%20carta%20al%20promotor.md)
-* [Contribuir a la documentación](Contributing%20to%20the%20Docs.md)
-* [Contribuir al código](Contribuir%20al%20c%C3%B3digo)
+* [Contribuir a la documentación](Contribuir%20a%20la%20documentaci%C3%B3n)
+* [Contribuir al código](Contribuir%20al%20codigo)
+
 
 * [Blogging](Blogging.md)
   * [Blogging Best Practices](Blogging%20Best%20Practices.md)

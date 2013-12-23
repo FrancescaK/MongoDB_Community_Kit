@@ -1,6 +1,5 @@
 El Kit de la Comunidad de Mongodb
 ====================================
-#TODO: Translate article names and links as soon as each one is translated.
 
 Hola y bienvenido al Kit de la Comunidad de Mongodb. Está diseñado para proporcionar una
 guía a aquellos interesados en participar en la comunidad de Mongodb. Incluye

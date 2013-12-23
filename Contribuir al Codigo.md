@@ -45,15 +45,11 @@ Esto es lo que sucede cuando envías un pull request:
 * Escribe documentación inline (comentarios) para que los mantenedores del proyecto y otros puedna entender tu código.
 * Escribe tests y asegurate de que pasan.
 * Asegúrate de que tu código no rompe ninguno de los tests exisentes.
+* Revisa la licencia del proyecto. Para contribuir al MongoDB Server, debes firmar el [acuerdo de contribución](http://www.mongodb.com/legal/contributor-agreement).
+* Añadete a la lista de contribuidores. La mayoría de los proyectos tiene una [lista de contribuidores](https://github.com/mongodb/mongo-hadoop#contributors) en su README de Github. Una vez que tu parche haya sido aceptado, añadete a la lista.
+* Lee las guias de contribución para cada proyecto. Estas se pueden econtrar en el repositorio de cada driver y pueden ser diferentes entre proyectos. Lee también la [lista completa de proyectos de drivers](http://docs.mongodb.org/ecosystem/drivers/).
+* Muestra tu logro [solictando una camiseta de contribuidor](http://www.mongodb.com/swag) una vez que tu primer parche haya sido acabado.  
 
+Si necesitas ayuda o consejo, las listas de correo de [MongoDB-user](https://groups.google.com/forum/#!forum/mongodb-user) y [MongoDB-dev](https://groups.google.com/forum/#!forum/mongodb-dev) son extremadamente activas y ambas son un buen lugar para preguntar o aprender de las experiencias de los demás.   MongoDB-user es para usuarios creando aplicaciones con MongoDB, mientras que MongoDB-dev es más utilizada por los que contribuyen a la base de datos o crean herramientas de terceros. Asegúrate también de comprobar el canal de IRC #mongodb en Freenode, o etiqueta tu pregunta con mongodb en [Stack Overflow](http://stackoverflow.com/questions/tagged/mongodb). Si puedes responder preguntas de otros usuarios en alguno de estos sitios, sientete libre de participar.
 
-
-* Review the appropriate project license. To contribute to the MongoDB Server, you must sign the [contributor agreement](http://www.mongodb.com/legal/contributor-agreement).
-* Add yourself to the contributors list. Most projects have a [list of contributors](https://github.com/mongodb/mongo-hadoop#contributors)
-on their Github READMe. Once your patch as been accepted, add yourself to the list. 
-* Read the contributing guidelines for each project. These can be found in each individual driver repo and may differ across project. Also see the [full list of drivers projects](http://docs.mongodb.org/ecosystem/drivers/).
-* Show off your accomplishment by [requesting a contributor T-shirt](http://www.mongodb.com/swag) once your first patch has landed.
-
-If you need help or advice, the [MongoDB-user](https://groups.google.com/forum/#!forum/mongodb-user) and [MongoDB-dev](https://groups.google.com/forum/#!forum/mongodb-dev) mailing lists are extremely active, and both are good places to either ask questions or learn from others' experiences. MongoDB-user is for users building applications with MongoDB, whereas MongoDB-dev is best used by those contributing to the database or building third party tools. Also be sure to check out the #mongodb IRC channel on Freenode, or tag your question with mongodb on [Stack Overflow](http://stackoverflow.com/questions/tagged/mongodb). If you can answer another users' question on any of those sites - feel free to jump in! 
-
-Always remember: MongoDB is developed in the open. The source code can often be the best way to understand how it works.
+Recuerda siempre: MonogoDB se desarrolla en apertura. El código fuente puede amenudo ser la mejor manera de entender cómo funciona.

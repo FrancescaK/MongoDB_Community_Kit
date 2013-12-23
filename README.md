@@ -10,8 +10,8 @@ open-source.
 Tabla de contenidos:
 
 * [Carta al promotor: Bienvenido al Kit de Desarrollador Promotor](Una%20carta%20al%20promotor.md)
-* [Contribuir a la documentación](Contribuir%20a%20la%20documentaci%C3%B3n)
-* [Contribuir al código](Contribuir%20al%20codigo)
+* [Contribuir a la documentación](Contribuir%20a%20la%20documentaci%C3%B3n.md)
+* [Contribuir al código](Contribuir%20al%20codigo.md)
 
 
 * [Blogging](Blogging.md)

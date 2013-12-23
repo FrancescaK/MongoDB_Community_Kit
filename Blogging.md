@@ -25,7 +25,7 @@ _Your company blog_ Many great companies have engineering blogs where they publi
 
 ###Sharing Your Content 
 
-There are a number of different social channels you can use to share your content listed in our [Blogging Best Practices section](blogging_best_practices.md#spread-the-word)
+There are a number of different social channels you can use to share your content listed in our [Blogging Best Practices section](Blogging%20Best%20Practices.md)
 
 ###Planet MongoDB
 

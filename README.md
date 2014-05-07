@@ -9,7 +9,7 @@ Table of Contents:
 
 * [Letter to the Advocate: Welcome to the Developer Advocacy Kit](A%20Letter%20to%20the%20Advocate.md)
 * [Contributing to the Docs](Contributing%20to%20the%20Docs.md)
-* [Contributing Code](Contributing%20Code.md)
+* [Contributing Code](Contributing_Code.md)
 * [Blogging](Blogging.md)
   * [Blogging Best Practices](Blogging%20Best%20Practices.md)
 * [Starting a MongoDB User Group](MongoDB%20User%20Groups.md)

@@ -7,9 +7,9 @@
 * Personal Name Recognition: Get your name out there with MongoDB enthusiasts
 * Association with a great product gives you credibility
 * Boost your speaking abilities and practice presenting
-* Polish your knowledge of MongoDB: Speaking forces MongoDB evangelists to deepen and tweak their knowledge of the database
+* Polish your knowledge of MongoDB - speaking forces  evangelists to deepen and tweak their knowledge of the database
 * Spread the word about a program that has changed and enhanced your career
-* Showcase your company: Speaking on specific use cases can be an easy way to promote your own organization
+* Showcase your company - speaking on specific use cases can be an easy way to promote your own organization
 * Recruit candidates with MongoDB interest or skills
 
 ###What's in it for your audience?
@@ -22,6 +22,7 @@
 
 ###What Should You Talk About?
 Teach them something! MongoDB User Group members have different levels of experience with MongoDB, but everyone wants to learn more. Talk about topics you are comfortable with --- as technical or as conceptual as that may be.
+
 Some great topics include:
 
 1. MongoDB in the Cloud (AWS, Rackspace, SoftLayer, etc.)
@@ -42,15 +43,30 @@ Some great topics include:
     * HIVE, Hadoop, and other MongoDB integrations
 
 
-Top 5 Tips on creating awesome Slide Decks:
+### Top ten tips for creating awesome Slide Decks
 
-* Be precise: Most user group organizers make slides available online after the user group, so make sure they are correct and to the point.
-* Be visual: a clever picture, easy to read chart, or even simple bullet points convey clear information. This is often more effective than code examples.
-* Use big fonts! Some meeting rooms are large and it is always hard to see from the back of the room.
-* Avoid including full text such as sentences and paragraphs in your slides. This makes it difficult for people to pay 
-attention to your thoughts and expertise.
-* Code samples: As a rule of thumb, keep code samples between 8-10 lines for simple readability. Highlight the important lines. 
-* Know your audience - The audience is generally knowledgeable about MongoDB and related technologies. They are interested in hearing your insights and experience so they can become better MongoDB developers.
+1. **Know your audience**: If you're presenting at a meetup or event, you should ideally attend at least one prior event so you have an idea of typical attendees and the level of technical detail expected. The event organizer should also be able to give you some guidance on the level of MongoDB experience and what the audience might be particularly interested in.
+
+* **Know your venue**: Ask about the room/venue where you will be presenting so you can match your slide deck to the environment. Consider the room size and available A/V options (projector, TV, sound, ...) and for projectors/TVs ask about the native resolution (i.e. 1280x720) and available connectors (HDMI, DisplayPort, VGA).
+
+* **Be concise**: Avoid including full text such as sentences and paragraphs in your slides, and try to minimize the number of slides included. The audience is there to hear you share your experience, not to read your slides.
+
+* **Be visual**: A clever picture, easy to read chart, or even simple bullet points can convey clear information. Visuals are often more effective than code examples, and can also be useful if you want to adapt the level of detail in your talk delivery based on the audience.
+
+* **Use big fonts**: Some meeting rooms are large and text may be hard to see from the back of the room.
+
+* **Check for contrast**: Depending on the brightness of the room and the A/V equipment, some colour combinations may look great on a laptop screen but be difficult for the audience to read on a projector.
+
+* **Focus code samples**: As a rule of thumb, keep code samples between 8-10 lines for simple readability. Highlight the important lines. 
+
+* **Check your spelling & grammar**: Attention to detail is important, particularly for technical audiences. Obvious spelling and grammar errors can be distracting and some audience members may feel compelled to point these out.
+
+* **Rehearse! Rehearse! Rehearse!**: Practice running through your slide deck and consider how well your talk flows from one slide to the next. You may find that some slides are unnecessary or hard to explain without further details. It's very helpful to get an idea of the timing for your talk so you aren't trying to fit 40 minutes of slides into a 25 minute session (or vice-versa).
+
+* **Consider speaker notes**: Many user group organizers make slides available online after the user group. Consider adding speaker notes with some extra context to explain slides for viewers who don't have the benefit of your accompanying talk.
+
+
+* ** **
 
 ####Other great resources to help you build well-designed slides:
 

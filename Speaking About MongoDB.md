@@ -7,9 +7,9 @@
 * Personal Name Recognition: Get your name out there with MongoDB enthusiasts
 * Association with a great product gives you credibility
 * Boost your speaking abilities and practice presenting
-* Polish your knowledge of MongoDB: Speaking forces MongoDB evangelists to deepen and tweak their knowledge of the database
+* Polish your knowledge of MongoDB
 * Spread the word about a program that has changed and enhanced your career
-* Showcase your company: Speaking on specific use cases can be an easy way to promote your own organization
+* Showcase your company's technical expertise
 * Recruit candidates with MongoDB interest or skills
 
 ###What's in it for your audience?
